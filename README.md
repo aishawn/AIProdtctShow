@@ -1,5 +1,5 @@
 # AIProdtctShow
 shawn ai prodrct produtcts
 
-# AI Kissing Product Video Generator
+# AI Kissing Video Generator
 https://www.aikissinggenerator.com/
